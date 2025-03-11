@@ -3,7 +3,7 @@ function userInfo() {
     const currentYear = new Date().getFullYear();
     let userYear;
     if (userYearInput === null) {
-        alert('You cancel entering the data.');
+        alert('You canceled entering your year of birth.');
         return;
     } else {
         userYear = Number(userYearInput.trim());
@@ -17,7 +17,7 @@ function userInfo() {
     const userCityInput = prompt('Enter your city');
     let userCity;
     if (userCityInput === null) {
-        alert('You cancel entering the data.');
+        alert('You canceled entering your city.');
         return;
     } else {
         userCity = userCityInput.trim().toLowerCase();
@@ -30,7 +30,7 @@ function userInfo() {
     const userSportInput = prompt('Enter your favorite sport');
     let userSport;
     if (userSportInput === null) {
-        alert('You cancel entering the data.');
+        alert('You canceled entering your favorite sport.');
         return;
     } else {
         userSport = userSportInput.trim().toLowerCase();
