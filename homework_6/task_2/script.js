@@ -14,3 +14,11 @@ function meanOfNumbers(arr) {
 }
 
 console.log(meanOfNumbers(inputData));
+
+
+function func(a, b) {
+    return a + b;
+}
+
+let res = func (b=1, a=2);
+console.log(res);
