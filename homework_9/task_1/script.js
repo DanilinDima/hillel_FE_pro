@@ -6,9 +6,9 @@ let company = {
     }
 }
 
-function sumSalaries(department) {
-    if (Array.isArray(department)) {
-        return department.reduce((acc, item) => {
+function sumSalaries(salaryList) {
+    if (Array.isArray(salaryList)) {
+        return salaryList.reduce((acc, item) => {
             if (Array.isArray(item)) {
                 return acc + sumSalaries(item); 
             }
@@ -16,8 +16,8 @@ function sumSalaries(department) {
         }, 0);
     } else {
         let sum = 0;
-        for (let subdep of Object.values(department)) {
-            sum += sumSalaries(subdep);
+        for (let dep of Object.values(salaryList)) {
+            sum += sumSalaries(dep);
         }
         return sum;
     }
