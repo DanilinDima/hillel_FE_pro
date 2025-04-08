@@ -25,3 +25,4 @@ function sumSalaries(salaryList) {
 
 
 console.log(sumSalaries(company)); // 6700
+
