@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HW13</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            font-size: 16px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #000;
+        }
+
+        button,
+        input,
+        select,
+        textarea {
+            font: inherit;
+            background: none;
+            border: none;
+            outline: none;
+        }
+
+        body {
+            font-family: sans-serif;
+            background: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            padding: 40px;
+        }
+
+        form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #f03c69;
+            font-weight: bold;
+        }
+
+        input,
+        textarea,
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 8px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+
+        }
+
+        input::placeholder,
+        textarea::placeholder {
+            color: #b8b8b8;
+        }
+
+        button {
+            background: #1ea0ff;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            border: none;
+            margin-top: 16px;
+        }
+
+        .error {
+            height: 16px;
+            font-size: 12px;
+            color: red;
+            margin-top: 4px;
+            visibility: hidden;
+        }
+
+        .error.active {
+            visibility: visible;
+        }
+
+        label {
+            font-size: 12px;
+            font-weight: bold;
+            margin-top: 12px;
+            display: block;
+            color: #5c5c5c;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form id="contactForm">
+        <h2>We would like to help you</h2>
+
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Name" />
+        <div class="error" id="nameError"></div>
+
+        <label for="message">Message</label>
+        <textarea id="message" placeholder="Message"></textarea>
+        <div class="error" id="messageError"></div>
+
+        <label>HOW TO ANSWER YOU?</label>
+
+        <input type="text" id="phone" placeholder="Phone number" />
+        <div class="error" id="phoneError"></div>
+
+        <input type="text" id="email" placeholder="Email" />
+        <div class="error" id="emailError"></div>
+
+        <button type="submit">Send message</button>
+    </form>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
