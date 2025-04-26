@@ -77,4 +77,9 @@ button {
     color: green;
 }
 .undone {
-    visibility: hidden;  }
+    visibility: hidden;
+}
+
+.strike {
+    text-decoration: line-through;
+}

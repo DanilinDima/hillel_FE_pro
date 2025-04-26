@@ -24,24 +24,30 @@ function addTodo(id, text, status) {
     const checkbox = todoItem.querySelector("input[type='checkbox']");
     const taskStatus = todoItem.querySelector(".task-status");
     const deleteButton = todoItem.querySelector(".delete-btn");
+    const taskText = todoItem.querySelector("div span:first-child");
 
     const todoItemInStorage = todoItems.find((item) => item.id === id);
 
     if (status === "done") {
         checkbox.checked = true;
         taskStatus.classList.remove("undone");
+        taskText.classList.add("strike");
     } else if (status === "undone") {
         checkbox.checked = false;
         taskStatus.classList.add("undone");
+        taskText.classList.remove("strike");
     }
 
     checkbox.addEventListener("change", function () {
         if (checkbox.checked) {
             taskStatus.classList.remove("undone");
             todoItemInStorage.status = "done";
+            taskText.classList.add("strike");
+
         } else {
             taskStatus.classList.add("undone");
             todoItemInStorage.status = "undone";
+            taskText.classList.remove("strike");
         }
         localStorage.setItem("todoItems", JSON.stringify(todoItems));
     });
