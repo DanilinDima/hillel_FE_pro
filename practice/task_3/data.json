@@ -1,0 +1,3145 @@
+{
+    "success": true,
+    "dataAvailable": true,
+    "showChartPositionForPartnerKeys": [],
+    "numUserFavorites": 48,
+    "isFeaturedExcluded": false,
+    "idRepOwner": "all",
+    "repOwnerName": "All Repertoire Owners",
+    "idProfitCenterFilterList": "",
+    "profitCenterFilterNameList": "",
+    "header": {
+        "columns": [
+            {
+                "columnIndex": 1,
+                "columnPartnerKey": 1,
+                "columnDataType": "1",
+                "columnDate": "20250426",
+                "columnDateTail": ""
+            },
+            {
+                "columnIndex": 2,
+                "columnPartnerKey": 5,
+                "columnDataType": "1",
+                "columnDate": "20250425",
+                "columnDateTail": ""
+            },
+            {
+                "columnIndex": 3,
+                "columnPartnerKey": 23,
+                "columnDataType": "1",
+                "columnDate": "20250425",
+                "columnDateTail": ""
+            },
+            {
+                "columnIndex": 4,
+                "columnPartnerKey": 27,
+                "columnDataType": "1",
+                "columnDate": "20250425",
+                "columnDateTail": ""
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 1066676,
+            "sortOrder": 0,
+            "title": "King Gnu",
+            "idArtist": 1066676,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1627482,
+            "artistName": "King Gnu",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 1214071,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 22,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1925890,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 751,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 1068,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1066676,
+                    "grasNo": 1627482,
+                    "name": "King Gnu",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1020229,
+            "sortOrder": 1,
+            "title": "Kenshi Yonezu",
+            "idArtist": 1020229,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226083705_1snhtMLeb2DYoMOcVbb8iB_296138b552a2e8c16a4c3a5e761c6afc.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226083705_1snhtMLeb2DYoMOcVbb8iB_ff9fdbe59efd4424cf8f8cc0c1ed0bb8.png",
+            "participantNumber": 1547542,
+            "artistName": "Kenshi Yonezu",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226083705_1snhtMLeb2DYoMOcVbb8iB_296138b552a2e8c16a4c3a5e761c6afc.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226083705_1snhtMLeb2DYoMOcVbb8iB_ff9fdbe59efd4424cf8f8cc0c1ed0bb8.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 1180586,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 34,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1587800,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 4517,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 1824,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1020229,
+                    "grasNo": 1547542,
+                    "name": "Kenshi Yonezu",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1203000,
+            "sortOrder": 2,
+            "title": "Yuuri",
+            "idArtist": 1203000,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240719032052_0ixzjrK1wkN2zWBXt3VW3W_541f48ab1c8a00c641da3387fb5506c8.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240719032052_0ixzjrK1wkN2zWBXt3VW3W_6c901ffde427047560d8e7d28f971af3.png",
+            "participantNumber": 1877326,
+            "artistName": "Yuuri",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240719032052_0ixzjrK1wkN2zWBXt3VW3W_541f48ab1c8a00c641da3387fb5506c8.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240719032052_0ixzjrK1wkN2zWBXt3VW3W_6c901ffde427047560d8e7d28f971af3.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 639435,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 23,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 998113,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 9,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 28,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 22,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 412,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1203000,
+                    "grasNo": 1877326,
+                    "name": "Yuuri",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1118191,
+            "sortOrder": 3,
+            "title": "Creepy Nuts",
+            "idArtist": 1118191,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1726507,
+            "artistName": "Creepy Nuts",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 586604,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 57,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 905505,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 11137,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 3554,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1118191,
+                    "grasNo": 1726507,
+                    "name": "Creepy Nuts",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 735743,
+            "sortOrder": 4,
+            "title": "Kana Nishino",
+            "idArtist": 735743,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240628085446_4DDoAL8n6ob19r3jOZEbJI_551bc3d5d5a30f3bf139c8b524f1d6fa.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240628085446_4DDoAL8n6ob19r3jOZEbJI_cd19a90f4f59a592d016ba0cada16c24.png",
+            "participantNumber": 992003,
+            "artistName": "Kana Nishino",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240628085446_4DDoAL8n6ob19r3jOZEbJI_551bc3d5d5a30f3bf139c8b524f1d6fa.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240628085446_4DDoAL8n6ob19r3jOZEbJI_cd19a90f4f59a592d016ba0cada16c24.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 449533,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 779676,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 15,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 50,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 35,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 735743,
+                    "grasNo": 992003,
+                    "name": "Kana Nishino",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1401222,
+            "sortOrder": 5,
+            "title": "JENNIE",
+            "idArtist": 1401222,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250414181813_250b0Wlc5Vk0CoUsaCY84M_52e869577e70de3c62437e39e0d9e5ed.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250414181813_250b0Wlc5Vk0CoUsaCY84M_a23fd07b59986fcfec33b51ed5f4d5d8.png",
+            "participantNumber": 2254801,
+            "artistName": "JENNIE",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250414181813_250b0Wlc5Vk0CoUsaCY84M_52e869577e70de3c62437e39e0d9e5ed.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250414181813_250b0Wlc5Vk0CoUsaCY84M_a23fd07b59986fcfec33b51ed5f4d5d8.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 304010,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 97,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 2305755,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 57797,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 107134,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 67,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1401222,
+                    "grasNo": 2254801,
+                    "name": "JENNIE",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 844344,
+            "sortOrder": 6,
+            "title": "Nogizaka46",
+            "idArtist": 844344,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1234202,
+            "artistName": "Nogizaka46",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 285193,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 13,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 550633,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 3,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 50,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 844344,
+                    "grasNo": 1234202,
+                    "name": "Nogizaka46",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 647041,
+            "sortOrder": 7,
+            "title": "Ikimonogakari",
+            "idArtist": 647041,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 868275,
+            "artistName": "Ikimonogakari",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 279008,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 44,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 477818,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 1088,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 573,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 647041,
+                    "grasNo": 868275,
+                    "name": "Ikimonogakari",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1199275,
+            "sortOrder": 8,
+            "title": "NiziU",
+            "idArtist": 1199275,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1870560,
+            "artistName": "NiziU",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 274923,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 363745,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 156,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 38,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 82,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1199275,
+                    "grasNo": 1870560,
+                    "name": "NiziU",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1313900,
+            "sortOrder": 9,
+            "title": "IVE",
+            "idArtist": 1313900,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 2088501,
+            "artistName": "IVE",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 258112,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 75,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 513589,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 4057,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 3703,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 95,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1313900,
+                    "grasNo": 2088501,
+                    "name": "IVE",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 775542,
+            "sortOrder": 10,
+            "title": "One Direction",
+            "idArtist": 775542,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20220705143043_6KImCVD70vtIoJWnq6nGn3_a0327d556332b8b2b957241cb9172450.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20220705143043_6KImCVD70vtIoJWnq6nGn3_a4d84d69542a20c5709cbebee4e24cfc.png",
+            "participantNumber": 1132467,
+            "artistName": "One Direction",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20220705143043_6KImCVD70vtIoJWnq6nGn3_a0327d556332b8b2b957241cb9172450.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20220705143043_6KImCVD70vtIoJWnq6nGn3_a4d84d69542a20c5709cbebee4e24cfc.png",
+            "userFavorite": true,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 250701,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 97,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1355782,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 105755,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 91136,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 70,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 775542,
+                    "grasNo": 1132467,
+                    "name": "One Direction",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 829920,
+            "sortOrder": 11,
+            "title": "Aimer",
+            "idArtist": 829920,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126190747_0bAsR2unSRpn6BQPEnNlZm_bd2bbce9a1e409076cb675594212981e.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126190747_0bAsR2unSRpn6BQPEnNlZm_a4f6152639983ea4e9c72e5c959552a5.png",
+            "participantNumber": 1207897,
+            "artistName": "Aimer",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126190747_0bAsR2unSRpn6BQPEnNlZm_bd2bbce9a1e409076cb675594212981e.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126190747_0bAsR2unSRpn6BQPEnNlZm_a4f6152639983ea4e9c72e5c959552a5.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 228430,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 57,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 452986,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 2656,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 803,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 829920,
+                    "grasNo": 1207897,
+                    "name": "Aimer",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1056339,
+            "sortOrder": 12,
+            "title": "Masaki Suda",
+            "idArtist": 1056339,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240628001339_6n4SsAp5VjvIBg3s9QCcPX_56923ebc4e22555080905f0141c8034b.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240628001339_6n4SsAp5VjvIBg3s9QCcPX_ecae080dd2c3f64e6edd1f3476151005.png",
+            "participantNumber": 1609945,
+            "artistName": "Masaki Suda",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240628001339_6n4SsAp5VjvIBg3s9QCcPX_56923ebc4e22555080905f0141c8034b.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240628001339_6n4SsAp5VjvIBg3s9QCcPX_ecae080dd2c3f64e6edd1f3476151005.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 225353,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 9,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 307421,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 111,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 66,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1056339,
+                    "grasNo": 1609945,
+                    "name": "Masaki Suda",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 823080,
+            "sortOrder": 13,
+            "title": "LiSA",
+            "idArtist": 823080,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20241220171403_0blbVefuxOGltDBa00dspv_383393410163d3032d3b91e82a724a85.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20241220171403_0blbVefuxOGltDBa00dspv_6aeaa6b8bf5e9788ac5addd8f3a3932d.png",
+            "participantNumber": 1195214,
+            "artistName": "LiSA",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20241220171403_0blbVefuxOGltDBa00dspv_383393410163d3032d3b91e82a724a85.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20241220171403_0blbVefuxOGltDBa00dspv_6aeaa6b8bf5e9788ac5addd8f3a3932d.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 168586,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 83,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 357341,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 10236,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 4403,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 96,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 823080,
+                    "grasNo": 1195214,
+                    "name": "LiSA",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 139608,
+            "sortOrder": 14,
+            "title": "MISIA",
+            "idArtist": 139608,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250328235302_3uyDATzOGjbGCts7v2eszk_bcbaf5369798ff6498c9c1a7fe6b0130.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250328235302_3uyDATzOGjbGCts7v2eszk_987f9896e99b18f68c3d3acc0de3698f.png",
+            "participantNumber": 204069,
+            "artistName": "MISIA",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250328235302_3uyDATzOGjbGCts7v2eszk_bcbaf5369798ff6498c9c1a7fe6b0130.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250328235302_3uyDATzOGjbGCts7v2eszk_987f9896e99b18f68c3d3acc0de3698f.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 160472,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 10,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 233228,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 16,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 127,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 28,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 33,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 139608,
+                    "grasNo": 204069,
+                    "name": "MISIA",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 796884,
+            "sortOrder": 15,
+            "title": "SPYAIR",
+            "idArtist": 796884,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1160201,
+            "artistName": "SPYAIR",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 143553,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 44,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 248157,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 739,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 9,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 239,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 796884,
+                    "grasNo": 1160201,
+                    "name": "SPYAIR",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 279704,
+            "sortOrder": 16,
+            "title": "ASIAN KUNG-FU GENERATION",
+            "idArtist": 279704,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 373542,
+            "artistName": "ASIAN KUNG-FU GENERATION",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 141839,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 58,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 235208,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 3237,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 321,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 279704,
+                    "grasNo": 373542,
+                    "name": "ASIAN KUNG-FU GENERATION",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 880465,
+            "sortOrder": 17,
+            "title": "MAN WITH A MISSION",
+            "idArtist": 880465,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1297596,
+            "artistName": "MAN WITH A MISSION",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 138679,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 50,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 217923,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 8,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 869,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 12,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 692,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 880465,
+                    "grasNo": 1297596,
+                    "name": "MAN WITH A MISSION",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1063273,
+            "sortOrder": 18,
+            "title": "wacci",
+            "idArtist": 1063273,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1620735,
+            "artistName": "wacci",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 127634,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 156014,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 4,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 300,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 26,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1063273,
+                    "grasNo": 1620735,
+                    "name": "wacci",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 115046,
+            "sortOrder": 19,
+            "title": "JUJU",
+            "idArtist": 115046,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226092429_5VLVogbPeBgFHXQPZQzBej_eea1d76cb9cf853ed1c7ade563bd4631.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226092429_5VLVogbPeBgFHXQPZQzBej_3a4e3127e72180b648db057705226c1e.png",
+            "participantNumber": 171301,
+            "artistName": "JUJU",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226092429_5VLVogbPeBgFHXQPZQzBej_eea1d76cb9cf853ed1c7ade563bd4631.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226092429_5VLVogbPeBgFHXQPZQzBej_3a4e3127e72180b648db057705226c1e.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 122624,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 203184,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 0,
+                    "columnDataChange": "",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 25,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 115046,
+                    "grasNo": 171301,
+                    "name": "JUJU",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1204166,
+            "sortOrder": 20,
+            "title": "yama",
+            "idArtist": 1204166,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250328231116_7kOrrFIBIBc8uCu2zbxbLv_6b8dd6bdd949a31750eeca87f98a547d.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250328231116_7kOrrFIBIBc8uCu2zbxbLv_f98595b3a7c3a56adae9b0ecd5daf3a8.png",
+            "participantNumber": 1880594,
+            "artistName": "yama",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250328231116_7kOrrFIBIBc8uCu2zbxbLv_6b8dd6bdd949a31750eeca87f98a547d.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250328231116_7kOrrFIBIBc8uCu2zbxbLv_f98595b3a7c3a56adae9b0ecd5daf3a8.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 118103,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 52,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 161450,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 17,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 20,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 260,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1204166,
+                    "grasNo": 1880594,
+                    "name": "yama",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 215923,
+            "sortOrder": 21,
+            "title": "Ken Hirai",
+            "idArtist": 215923,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210721012818_6jIhEiXcCAyBsuEI7qZ9vc_2c296cd5e5e77cda882ddff34f944257.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210721012818_6jIhEiXcCAyBsuEI7qZ9vc_01c1891bc77bbe2fb39648563d4849b8.png",
+            "participantNumber": 298494,
+            "artistName": "Ken Hirai",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210721012818_6jIhEiXcCAyBsuEI7qZ9vc_2c296cd5e5e77cda882ddff34f944257.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210721012818_6jIhEiXcCAyBsuEI7qZ9vc_01c1891bc77bbe2fb39648563d4849b8.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 115429,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 188253,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 10,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 0,
+                    "columnDataChange": "",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 7,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 215923,
+                    "grasNo": 298494,
+                    "name": "Ken Hirai",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 571210,
+            "sortOrder": 22,
+            "title": "YUI",
+            "idArtist": 571210,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210704092517_5WBO8UyOuJ1l7ZBqqBimpO_cb7ef68946638a24a6045a47d8e5ac02.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210704092517_5WBO8UyOuJ1l7ZBqqBimpO_288613a9a370c8dd050e9ce3d8c25b77.png",
+            "participantNumber": 767046,
+            "artistName": "YUI",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210704092517_5WBO8UyOuJ1l7ZBqqBimpO_cb7ef68946638a24a6045a47d8e5ac02.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210704092517_5WBO8UyOuJ1l7ZBqqBimpO_288613a9a370c8dd050e9ce3d8c25b77.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 113837,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 43,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 200275,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 8,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 1371,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 158,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 571210,
+                    "grasNo": 767046,
+                    "name": "YUI",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1094264,
+            "sortOrder": 23,
+            "title": "Hikaru Utada",
+            "idArtist": 1094264,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126212515_7lbSsjYACZHn1MSDXPxNF2_cabf3f83f71879b4ab3221fda64e155f.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126212515_7lbSsjYACZHn1MSDXPxNF2_9edb67d83df0a06ca95c96362bc14423.png",
+            "participantNumber": 1681407,
+            "artistName": "Hikaru Utada",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126212515_7lbSsjYACZHn1MSDXPxNF2_cabf3f83f71879b4ab3221fda64e155f.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126212515_7lbSsjYACZHn1MSDXPxNF2_9edb67d83df0a06ca95c96362bc14423.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 113434,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 43,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 246924,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 805,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 10,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 226,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1094264,
+                    "grasNo": 1681407,
+                    "name": "Hikaru Utada",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 869637,
+            "sortOrder": 24,
+            "title": "The Chainsmokers",
+            "idArtist": 869637,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240922144116_69GGBxA162lTqCwzJG5jLp_ee1fea4ff3e241b804a45d03a417244a.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240922144116_69GGBxA162lTqCwzJG5jLp_659c0cadcff48c001aeea717c69a9803.png",
+            "participantNumber": 1278132,
+            "artistName": "The Chainsmokers",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240922144116_69GGBxA162lTqCwzJG5jLp_ee1fea4ff3e241b804a45d03a417244a.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240922144116_69GGBxA162lTqCwzJG5jLp_659c0cadcff48c001aeea717c69a9803.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 104372,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1132801,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 378033,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 52129,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 77,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 869637,
+                    "grasNo": 1278132,
+                    "name": "The Chainsmokers",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 649159,
+            "sortOrder": 25,
+            "title": "miwa",
+            "idArtist": 649159,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250127012507_3R3WEsfL1WC1zLiz3XG9K5_3c28b472f3e4fa2237f4eedecbfed375.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250127012507_3R3WEsfL1WC1zLiz3XG9K5_08b3ec373eafe18df74f4ce1ed42de9c.png",
+            "participantNumber": 871914,
+            "artistName": "miwa",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250127012507_3R3WEsfL1WC1zLiz3XG9K5_3c28b472f3e4fa2237f4eedecbfed375.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250127012507_3R3WEsfL1WC1zLiz3XG9K5_08b3ec373eafe18df74f4ce1ed42de9c.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 94286,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 19,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 185979,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 568,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 60,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 649159,
+                    "grasNo": 871914,
+                    "name": "miwa",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 989238,
+            "sortOrder": 26,
+            "title": "Queen Bee",
+            "idArtist": 989238,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1491588,
+            "artistName": "Queen Bee",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 80612,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 58,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 105513,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 71,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 87,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 293,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 989238,
+                    "grasNo": 1491588,
+                    "name": "Queen Bee",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1052275,
+            "sortOrder": 27,
+            "title": "SZA",
+            "idArtist": 1052275,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126205604_7tYKF4w9nC0nq9CsPZTHyP_62f3cb904c0c47d8ed5931c2e15fb892.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126205604_7tYKF4w9nC0nq9CsPZTHyP_4ddaf20d24d72e86c1a5ce15291e4d5d.png",
+            "participantNumber": 1601863,
+            "artistName": "SZA",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250126205604_7tYKF4w9nC0nq9CsPZTHyP_62f3cb904c0c47d8ed5931c2e15fb892.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250126205604_7tYKF4w9nC0nq9CsPZTHyP_4ddaf20d24d72e86c1a5ce15291e4d5d.png",
+            "userFavorite": true,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 77439,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 6462981,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 858899,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 64804,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 89,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1052275,
+                    "grasNo": 1601863,
+                    "name": "SZA",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 821383,
+            "sortOrder": 28,
+            "title": "Travis Scott",
+            "idArtist": 821383,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20230731233055_0Y5tJX1MQlPlqiwlOH1tJY_3e7e236f7c9c2b361b5857f5c6865fcb.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20230731233055_0Y5tJX1MQlPlqiwlOH1tJY_02754e2efffbf6163c3dfeb6eba05086.png",
+            "participantNumber": 1192524,
+            "artistName": "Travis Scott",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20230731233055_0Y5tJX1MQlPlqiwlOH1tJY_3e7e236f7c9c2b361b5857f5c6865fcb.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20230731233055_0Y5tJX1MQlPlqiwlOH1tJY_02754e2efffbf6163c3dfeb6eba05086.png",
+            "userFavorite": true,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 76036,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 5759308,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 362156,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 82144,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 79,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 821383,
+                    "grasNo": 1192524,
+                    "name": "Travis Scott",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 852257,
+            "sortOrder": 29,
+            "title": "amazarashi",
+            "idArtist": 852257,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1247989,
+            "artistName": "amazarashi",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 69033,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 49,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 115710,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 9,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 10,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 132,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 852257,
+                    "grasNo": 1247989,
+                    "name": "amazarashi",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 360296,
+            "sortOrder": 30,
+            "title": "Michael Jackson",
+            "idArtist": 360296,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240922211035_3fMbdgg4jU18AjLCKBhRSm_fac566f4fd055c776446cd7c6a560b79.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240922211035_3fMbdgg4jU18AjLCKBhRSm_d34428fd030015bdffee66e976a995c2.png",
+            "participantNumber": 4867,
+            "artistName": "Michael Jackson",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240922211035_3fMbdgg4jU18AjLCKBhRSm_fac566f4fd055c776446cd7c6a560b79.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240922211035_3fMbdgg4jU18AjLCKBhRSm_d34428fd030015bdffee66e976a995c2.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 68975,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1978870,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 899212,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 175510,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 70,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 360296,
+                    "grasNo": 4867,
+                    "name": "Michael Jackson",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 635399,
+            "sortOrder": 31,
+            "title": "Oasis",
+            "idArtist": 635399,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240601215455_6sN51vEARnAAdBw1IKZ8Q9_d469851cc35b2692cc64565e6918365d.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240601215455_6sN51vEARnAAdBw1IKZ8Q9_0d2df88404f625d85b2494507d5f4126.png",
+            "participantNumber": 85143,
+            "artistName": "Oasis",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240601215455_6sN51vEARnAAdBw1IKZ8Q9_d469851cc35b2692cc64565e6918365d.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240601215455_6sN51vEARnAAdBw1IKZ8Q9_0d2df88404f625d85b2494507d5f4126.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 66987,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 849764,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 135046,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 156134,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 42,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 635399,
+                    "grasNo": 85143,
+                    "name": "Oasis",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 286667,
+            "sortOrder": 32,
+            "title": "Mika Nakashima",
+            "idArtist": 286667,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240820193953_3D73KNJRMbV45N59E8IN0F_a82f43951218d6ef05efe79a82e45336.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240820193953_3D73KNJRMbV45N59E8IN0F_e55e159e9366cb9bacf8cc432480fc99.png",
+            "participantNumber": 381573,
+            "artistName": "Mika Nakashima",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240820193953_3D73KNJRMbV45N59E8IN0F_a82f43951218d6ef05efe79a82e45336.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240820193953_3D73KNJRMbV45N59E8IN0F_e55e159e9366cb9bacf8cc432480fc99.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 66645,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 43,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 140784,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 189,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 93,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 286667,
+                    "grasNo": 381573,
+                    "name": "Mika Nakashima",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1132459,
+            "sortOrder": 33,
+            "title": "The Kid LAROI",
+            "idArtist": 1132459,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20241023022424_2tIP7SsRs7vjIcLrU85W8J_a4a2fd0edde441538748310a57364ced.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20241023022424_2tIP7SsRs7vjIcLrU85W8J_3b29032f10c0c3bb5770431f6d6c8c64.png",
+            "participantNumber": 1752612,
+            "artistName": "The Kid LAROI",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20241023022424_2tIP7SsRs7vjIcLrU85W8J_a4a2fd0edde441538748310a57364ced.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20241023022424_2tIP7SsRs7vjIcLrU85W8J_3b29032f10c0c3bb5770431f6d6c8c64.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 65305,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1287152,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 210255,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 34690,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 79,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1132459,
+                    "grasNo": 1752612,
+                    "name": "The Kid LAROI",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1117558,
+            "sortOrder": 34,
+            "title": "Tate McRae",
+            "idArtist": 1117558,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226092312_45dkTj5sMRSjrmBSBeiHym_9b10866af663c870db24d66d5ed1fea3.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226092312_45dkTj5sMRSjrmBSBeiHym_9c9702b5ef0eaac1cc85e67157a77de3.png",
+            "participantNumber": 1725251,
+            "artistName": "Tate McRae",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226092312_45dkTj5sMRSjrmBSBeiHym_9b10866af663c870db24d66d5ed1fea3.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226092312_45dkTj5sMRSjrmBSBeiHym_9c9702b5ef0eaac1cc85e67157a77de3.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 64968,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 3752635,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 608991,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 9,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 283818,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 68,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1117558,
+                    "grasNo": 1725251,
+                    "name": "Tate McRae",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 680037,
+            "sortOrder": 35,
+            "title": "Chris Brown",
+            "idArtist": 680037,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20231122051725_7bXgB6jMjp9ATFy66eO08Z_1abb1381612a70abe00c40bf6b4d7b08.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20231122051725_7bXgB6jMjp9ATFy66eO08Z_902610bd0b50dc9ee34b66322348e674.png",
+            "participantNumber": 91431,
+            "artistName": "Chris Brown",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20231122051725_7bXgB6jMjp9ATFy66eO08Z_1abb1381612a70abe00c40bf6b4d7b08.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20231122051725_7bXgB6jMjp9ATFy66eO08Z_902610bd0b50dc9ee34b66322348e674.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 64751,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 5910677,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 2063470,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 93778,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 78,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 680037,
+                    "grasNo": 91431,
+                    "name": "Chris Brown",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 286508,
+            "sortOrder": 36,
+            "title": "T.M.Revolution",
+            "idArtist": 286508,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250329012530_3jdzcmtw5XOmOkSb2mRDtr_1140cbe0b31ee3fa3fd0ca98a9807ea0.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250329012530_3jdzcmtw5XOmOkSb2mRDtr_1c09e09320c024d9d565e1b2160cb106.png",
+            "participantNumber": 381397,
+            "artistName": "T.M.Revolution",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250329012530_3jdzcmtw5XOmOkSb2mRDtr_1140cbe0b31ee3fa3fd0ca98a9807ea0.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250329012530_3jdzcmtw5XOmOkSb2mRDtr_1c09e09320c024d9d565e1b2160cb106.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 62492,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 35,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 95946,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 7,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 996,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 32,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 286508,
+                    "grasNo": 381397,
+                    "name": "T.M.Revolution",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 142705,
+            "sortOrder": 37,
+            "title": "Earth, Wind & Fire",
+            "idArtist": 142705,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210721172101_6T46cZo3M8wXq5eOoXbZBx_13bbcbfb02975299e3f1536c1e8d4856.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210721172101_6T46cZo3M8wXq5eOoXbZBx_078715c5a665f052a076cd7486de99a2.png",
+            "participantNumber": 20822,
+            "artistName": "Earth, Wind & Fire",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20210721172101_6T46cZo3M8wXq5eOoXbZBx_13bbcbfb02975299e3f1536c1e8d4856.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20210721172101_6T46cZo3M8wXq5eOoXbZBx_078715c5a665f052a076cd7486de99a2.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 61956,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 525128,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 633749,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 30461,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 85,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 142705,
+                    "grasNo": 20822,
+                    "name": "Earth, Wind & Fire",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 882741,
+            "sortOrder": 38,
+            "title": "Meghan Trainor",
+            "idArtist": 882741,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240315195846_6JL8zeS1NmiOftqZTRgdTz_8c3366af222c898f76de2ef7231a116f.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240315195846_6JL8zeS1NmiOftqZTRgdTz_a38d278c99efb51f952e31a1aedf4630.png",
+            "participantNumber": 1302321,
+            "artistName": "Meghan Trainor",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240315195846_6JL8zeS1NmiOftqZTRgdTz_8c3366af222c898f76de2ef7231a116f.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240315195846_6JL8zeS1NmiOftqZTRgdTz_a38d278c99efb51f952e31a1aedf4630.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 60284,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 650525,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 525999,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 88562,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 79,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 882741,
+                    "grasNo": 1302321,
+                    "name": "Meghan Trainor",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 996258,
+            "sortOrder": 39,
+            "title": "Keyakizaka46",
+            "idArtist": 996258,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1504163,
+            "artistName": "Keyakizaka46",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 59830,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 12,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 101462,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 4,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 0,
+                    "columnDataChange": "",
+                    "columnDataChangeValue": 0,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 5,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 996258,
+                    "grasNo": 1504163,
+                    "name": "Keyakizaka46",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1077802,
+            "sortOrder": 40,
+            "title": "Måneskin",
+            "idArtist": 1077802,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 1648900,
+            "artistName": "Måneskin",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 58794,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 473027,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 94750,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 72960,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 60,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1077802,
+                    "grasNo": 1648900,
+                    "name": "Måneskin",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 1410988,
+            "sortOrder": 41,
+            "title": "LISA",
+            "idArtist": 1410988,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 2273914,
+            "artistName": "LISA",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 58773,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 650942,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 35974,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 21825,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 76,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 1410988,
+                    "grasNo": 2273914,
+                    "name": "LISA",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 280964,
+            "sortOrder": 42,
+            "title": "Pitbull",
+            "idArtist": 280964,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250103140747_0TnOYISbd1XYRBk9myaseg_1a064f969813b5f9c49641dda34b9269.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250103140747_0TnOYISbd1XYRBk9myaseg_ea27b1e5d22f65a74b544926064684f5.png",
+            "participantNumber": 375028,
+            "artistName": "Pitbull",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250103140747_0TnOYISbd1XYRBk9myaseg_1a064f969813b5f9c49641dda34b9269.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250103140747_0TnOYISbd1XYRBk9myaseg_ea27b1e5d22f65a74b544926064684f5.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 57167,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 1518494,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 6,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 468878,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 79564,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 72,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 280964,
+                    "grasNo": 375028,
+                    "name": "Pitbull",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 190748,
+            "sortOrder": 43,
+            "title": "Avril Lavigne",
+            "idArtist": 190748,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226113742_0p4nmQO2msCgU4IF37Wi3j_b70064452693eb1c8d9ab5e5977b22e1.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226113742_0p4nmQO2msCgU4IF37Wi3j_13f34f8bcfcc69082be273f985276888.png",
+            "participantNumber": 268193,
+            "artistName": "Avril Lavigne",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20250226113742_0p4nmQO2msCgU4IF37Wi3j_b70064452693eb1c8d9ab5e5977b22e1.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20250226113742_0p4nmQO2msCgU4IF37Wi3j_13f34f8bcfcc69082be273f985276888.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 56708,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 648408,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 225517,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 50460,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 85,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 190748,
+                    "grasNo": 268193,
+                    "name": "Avril Lavigne",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 641923,
+            "sortOrder": 44,
+            "title": "Backstreet Boys",
+            "idArtist": 641923,
+            "imageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "thumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "participantNumber": 86080,
+            "artistName": "Backstreet Boys",
+            "artistImageUrl": "https://assets.scuba.tools/media/default/artists/320x320/artist_image_320x320.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/default/artists/100x100/artist_image_100x100.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 55208,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 98,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 507001,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 199677,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 63571,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 69,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 641923,
+                    "grasNo": 86080,
+                    "name": "Backstreet Boys",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 962660,
+            "sortOrder": 45,
+            "title": "SawanoHiroyuki[nZk]",
+            "idArtist": 962660,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240820150805_2EWXgN0xWOnbqJOxa9pWNO_df1c71c4cc239b6456efd9acb8b8ba57.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240820150805_2EWXgN0xWOnbqJOxa9pWNO_5809221c4bc91f2a9b80718c570d8233.png",
+            "participantNumber": 1444712,
+            "artistName": "SawanoHiroyuki[nZk]",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240820150805_2EWXgN0xWOnbqJOxa9pWNO_df1c71c4cc239b6456efd9acb8b8ba57.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240820150805_2EWXgN0xWOnbqJOxa9pWNO_5809221c4bc91f2a9b80718c570d8233.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 54842,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 91,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 129513,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 136,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 14,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 2928,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 90,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 962660,
+                    "grasNo": 1444712,
+                    "name": "SawanoHiroyuki[nZk]",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 887767,
+            "sortOrder": 46,
+            "title": "Doja Cat",
+            "idArtist": 887767,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240416194241_5cj0lLjcoR7YOSnhnX0Po5_790f6d8261ee3edffb4f430c8fb8b07e.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240416194241_5cj0lLjcoR7YOSnhnX0Po5_fa40e96d7783c8e079e2fdbae3f388ae.png",
+            "participantNumber": 1311198,
+            "artistName": "Doja Cat",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240416194241_5cj0lLjcoR7YOSnhnX0Po5_790f6d8261ee3edffb4f430c8fb8b07e.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240416194241_5cj0lLjcoR7YOSnhnX0Po5_fa40e96d7783c8e079e2fdbae3f388ae.png",
+            "userFavorite": true,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 52735,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 2615499,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 484145,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 3,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 58689,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 81,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 887767,
+                    "grasNo": 1311198,
+                    "name": "Doja Cat",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 976369,
+            "sortOrder": 47,
+            "title": "Alan Walker",
+            "idArtist": 976369,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20230614083123_7vk5e3vY1uw9plTHJAMwjN_410b5fa7a73327a11e029d124c0cec34.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20230614083123_7vk5e3vY1uw9plTHJAMwjN_f58fa03b1032157ad4bd2b37bd745030.png",
+            "participantNumber": 1469482,
+            "artistName": "Alan Walker",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20230614083123_7vk5e3vY1uw9plTHJAMwjN_410b5fa7a73327a11e029d124c0cec34.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20230614083123_7vk5e3vY1uw9plTHJAMwjN_f58fa03b1032157ad4bd2b37bd745030.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 52673,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 576206,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 182963,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 1,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 49869,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 74,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 976369,
+                    "grasNo": 1469482,
+                    "name": "Alan Walker",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 992014,
+            "sortOrder": 48,
+            "title": "SAYURI",
+            "idArtist": 992014,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20220720124439_1YLxQZIGsaZq9rvFu8zeRz_12354d275f3e951cc7113f7faf5f41e3.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20220720124439_1YLxQZIGsaZq9rvFu8zeRz_e7580965a833038603ce1953fc093fcd.png",
+            "participantNumber": 1496314,
+            "artistName": "SAYURI",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20220720124439_1YLxQZIGsaZq9rvFu8zeRz_12354d275f3e951cc7113f7faf5f41e3.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20220720124439_1YLxQZIGsaZq9rvFu8zeRz_e7580965a833038603ce1953fc093fcd.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 46387,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 59,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 70920,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 5,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 12,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 100,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 89,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 992014,
+                    "grasNo": 1496314,
+                    "name": "SAYURI",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        },
+        {
+            "id": 898222,
+            "sortOrder": 49,
+            "title": "Kygo",
+            "idArtist": 898222,
+            "imageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240627213948_23fqKkggKUBHNkbKtXEls4_57e247a64c18e7638bac014fbeddc2a3.png",
+            "thumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240627213948_23fqKkggKUBHNkbKtXEls4_c447d7bc8251df40f953619981ac28ae.png",
+            "participantNumber": 1328853,
+            "artistName": "Kygo",
+            "artistImageUrl": "https://assets.scuba.tools/media/core/spotify/artists/640x640/20240627213948_23fqKkggKUBHNkbKtXEls4_57e247a64c18e7638bac014fbeddc2a3.png",
+            "artistThumbUrl": "https://assets.scuba.tools/media/core/spotify/artists/100x100/20240627213948_23fqKkggKUBHNkbKtXEls4_c447d7bc8251df40f953619981ac28ae.png",
+            "userFavorite": false,
+            "isPrimary": true,
+            "columns": [
+                {
+                    "columnIndex": 1,
+                    "columnDataValue": 45721,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 99,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 2,
+                    "columnDataValue": 794308,
+                    "columnDataChange": "+",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 3,
+                    "columnDataValue": 205792,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 2,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                },
+                {
+                    "columnIndex": 4,
+                    "columnDataValue": 100543,
+                    "columnDataChange": "-",
+                    "columnDataChangeValue": 63,
+                    "columnDataAvailable": true,
+                    "columnChartPosition": -1,
+                    "columnChartChange": "0"
+                }
+            ],
+            "artists": [
+                {
+                    "idArtist": 898222,
+                    "grasNo": 1328853,
+                    "name": "Kygo",
+                    "hasProfile": true,
+                    "sequenceNum": 0,
+                    "isPrimary": true
+                }
+            ]
+        }
+    ]
+}
