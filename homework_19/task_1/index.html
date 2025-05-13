@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HW19 Wheather widget</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div class="weather-widget">
+            <div class="top">
+                <div>
+                    <p id="date">---</p>
+                </div>
+                <div class="icon">
+                    <img id="weather-icon" src="" alt="icon" />
+                </div>
+            </div>
+
+            <div class="middle">
+                <h2 id="city">--</h2>
+                <h1 id="time">--:--</h1>
+                <h2 id="temp">--°C</h2>
+            </div>
+
+            <div class="details">
+                <p><strong>Feels Like:</strong> <span id="feels">--°C</span></p>
+                <p><strong>Condition:</strong> <span id="desc">--</span></p>
+                <p><strong>Humidity:</strong> <span id="humidity">--%</span></p>
+                <p>
+                    <strong>Pressure:</strong> <span id="pressure">-- hPa</span>
+                </p>
+                <p><strong>Wind:</strong> <span id="wind">--</span></p>
+            </div>
+
+            <button id="refresh">Refresh</button>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
