@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import "./css/MainPage.css"; 
 
 export default function Main() {
+
   const [todos, setTodos] = useState(() => {
     return JSON.parse(localStorage.getItem("todoItems")) || [];
   });

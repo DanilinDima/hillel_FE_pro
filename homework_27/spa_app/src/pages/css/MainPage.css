@@ -1,7 +1,31 @@
+/* === Цветовые переменные по умолчанию (светлая тема) === */
+:root {
+  --bg-color: #f0f0f0;
+  --text-color: #333;
+  --container-bg: #f9f9f9;
+  --button-bg: #9d9d9d;
+  --input-border: #ccc;
+  --status-color: green;
+  --alert-color: red;
+}
+
+/* === Тёмная тема === */
+body.dark {
+  --bg-color: #121212;
+  --text-color: #f1f1f1;
+  --container-bg: #1e1e1e;
+  --button-bg: #555;
+  --input-border: #444;
+  --status-color: lightgreen;
+  --alert-color: #ff7a7a;
+}
+
+/* === Применение переменных === */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .todo-title {
@@ -15,7 +39,7 @@ body {
   margin: 20px auto;
   padding: 20px;
   border-radius: 10px;
-  background-color: #f9f9f9;
+  background-color: var(--container-bg);
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -37,20 +61,23 @@ body {
   padding: 10px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--input-border);
+  background-color: var(--container-bg);
+  color: var(--text-color);
 }
 
 #todo-add-container button {
   font-size: 16px;
   padding: 10px;
   border-radius: 5px;
-  background-color: #9d9d9d;
+  background-color: var(--button-bg);
   border: none;
   cursor: pointer;
+  color: var(--text-color);
 }
 
 #add-alert-msg {
-  color: red;
+  color: var(--alert-color);
   font-size: 14px;
 }
 
@@ -59,7 +86,7 @@ body {
 }
 
 .task-status {
-  color: green;
+  color: var(--status-color);
 }
 
 .undone {
