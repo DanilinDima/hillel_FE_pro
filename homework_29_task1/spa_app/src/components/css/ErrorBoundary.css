@@ -1,0 +1,46 @@
+
+.error-fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  border-radius: 12px;
+  background-color: var(--bg-fallback, #fff0f0);
+  color: var(--text-fallback, #d00000);
+  max-width: 500px;
+  margin: 4rem auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.error-fallback h2 {
+  font-size: 24px;
+  margin-bottom: 1rem;
+}
+
+.error-fallback pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin-bottom: 1.5rem;
+}
+
+.error-fallback button {
+  padding: 10px 20px;
+  background-color: #d00000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+body.dark {
+  --bg-fallback: #1e1e1e;
+  --text-fallback: #ff6b6b;
+}
+
+body:not(.dark) {
+  --bg-fallback: #fff0f0;
+  --text-fallback: #d00000;
+}
