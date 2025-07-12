@@ -19,25 +19,49 @@ export const useBookingStore = create((set) => ({
             set({ errors: [error.message], loading: false });
         }
     },
+    // fetchHotels: async (values) => {
+    //     set({ loading: true });
+    //     try {
+    //         const response = await fetch("http://localhost:3000/hotels", {
+    //             method: "POST",
+    //             headers: { "Content-Type": "application/json" },
+    //             body: JSON.stringify(values),
+    //         });
+    //         if (!response.ok) {
+    //             throw new Error(data.error || "Unknown error occurred");
+    //         }
+    //         const data = await response.json();
+    //         set({ hotels: data, loading: false, bookedSuccess: false });
+    //     } catch (error) {
+    //         set({ errors: [error.message], loading: false });
+    //     }
+    // },
+
     fetchHotels: async (values) => {
-        set({ loading: true });
-        try {
-            const response = await fetch("http://localhost:3000/hotels", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify(values),
-            });
-            if (!response.ok) {
-                throw new Error("Failed to fetch hotels");
-            }
-            const data = await response.json();
-            set({ hotels: data, loading: false, bookedSuccess: false });
-        } catch (error) {
-            set({ errors: [error.message], loading: false });
-        }
-    },
+  set({ loading: true, errors: [], bookedSuccess: false });
+
+  try {
+    const response = await fetch("http://localhost:3000/hotels", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(values),
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      // Сервер вернул ошибку с сообщением
+      throw new Error(data.error || "Unknown error occurred");
+    }
+
+    set({ hotels: data, loading: false });
+  } catch (error) {
+    set({ errors: [error.message], hotels: [], loading: false });
+  }
+},
+
     bookHotel: async (bookingData) => {
-        set({ loading: true });
+        set({ loading: true ,errors: [] });
         try {
             const response = await fetch("http://localhost:3000/book", {
                 method: "POST",
@@ -59,4 +83,5 @@ export const useBookingStore = create((set) => ({
         set({ bookedSuccess: success });
     },
     resetHotels: () => set({ hotels: [] }),
+    resetErrors: () => set({ errors: [] }),
 }));

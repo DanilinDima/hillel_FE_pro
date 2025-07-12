@@ -11,6 +11,35 @@ app.use(bodyParser.json());
 const DB_PATH = "./db.json";
 const BOOKINGS_PATH = "./bookingDB.json";
 
+// app.post("/hotels", (req, res) => {
+//     const bookingData = req.body;
+
+//     if (
+//         !bookingData.destination ||
+//         !bookingData.checkIn ||
+//         !bookingData.checkOut ||
+//         typeof bookingData.adults !== "number"
+//     ) {
+//         return res.status(400).json({ error: "Invalid booking data" });
+//     }
+
+//     fs.readFile(DB_PATH, "utf-8", (err, rawDb) => {
+//         if (err) return res.status(500).json({ error: "DB read error" });
+
+//         try {
+//             const db = JSON.parse(rawDb);
+//             const hotels = db.hotels || [];
+//             const result = hotels.filter(
+//                 (hotel) => hotel.city === bookingData.destination
+//             );
+
+//             return res.json(result);
+//         } catch (e) {
+//             return res.status(500).json({ error: "DB parse error" });
+//         }
+//     });
+// });
+
 app.post("/hotels", (req, res) => {
     const bookingData = req.body;
 
@@ -32,6 +61,10 @@ app.post("/hotels", (req, res) => {
             const result = hotels.filter(
                 (hotel) => hotel.city === bookingData.destination
             );
+
+            if (result.length === 0) {
+                return res.status(404).json({ error: "Hotels not found" });
+            }
 
             return res.json(result);
         } catch (e) {

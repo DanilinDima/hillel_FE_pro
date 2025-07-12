@@ -24,6 +24,8 @@ export default function BookingForm() {
         bookedSuccess,
         setBookedSuccess,
         resetHotels,
+        errors,
+        resetErrors,
     } = useBookingStore();
 
     useEffect(() => {
@@ -78,6 +80,7 @@ export default function BookingForm() {
                     useEffect(() => {
                         setBookedSuccess(false);
                         resetHotels();
+                        resetErrors();
                     }, [values]);
 
                     return (
@@ -237,6 +240,32 @@ export default function BookingForm() {
                     );
                 }}
             </Formik>
+            {errors.length > 0 && (
+                <Flex
+      minH="50vh"
+      align="center"
+      justify="center"
+      px={4}
+      py={6}
+    >
+      <Box
+        bg="red.50"
+        border="1px solid"
+        borderColor="red.300"
+        borderRadius="md"
+        p={6}
+        maxW="600px"
+        w="100%"
+        textAlign="center"
+      >
+        {errors.map((err, idx) => (
+          <Text key={idx} fontSize="xl" fontWeight="bold" color="red.600">
+            {err}
+          </Text>
+        ))}
+      </Box>
+    </Flex>
+            )}
             {hotels.length > 0 && (
                 <Box mt={10}>
                     <Heading color="gray.600" mb={4}>
