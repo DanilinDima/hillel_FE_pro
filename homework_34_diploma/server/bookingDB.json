@@ -1,0 +1,42 @@
+[
+  {
+    "destination": "Celebration",
+    "checkIn": "2025-07-13",
+    "checkOut": "2025-07-19",
+    "adults": 1,
+    "children": 0,
+    "hotel": {
+      "id": "943cff81-febc-49d4-bfce-797342db50a2",
+      "name": "Celebration Hotel 6",
+      "address": "3603 Celebration St",
+      "city": "Celebration",
+      "state": "FL",
+      "country_code": "US",
+      "hotel_rating": 4.9,
+      "phone_number": "+1 305 555 6793",
+      "website": null
+    },
+    "id": "mhlp98aj",
+    "timestamp": "2025-07-12T12:14:15.487Z"
+  },
+  {
+    "destination": "Boston",
+    "checkIn": "2025-07-02",
+    "checkOut": "2025-07-19",
+    "adults": 1,
+    "children": 0,
+    "hotel": {
+      "id": "74eec472-d40e-44f9-97c3-f775098e7606",
+      "name": "Boston Hotel 2",
+      "address": "7288 Boston St",
+      "city": "Boston",
+      "state": "FL",
+      "country_code": "US",
+      "hotel_rating": 4.7,
+      "phone_number": "+1 305 555 9928",
+      "website": null
+    },
+    "id": "f8qar9i6",
+    "timestamp": "2025-07-12T12:17:10.380Z"
+  }
+]
