@@ -62,7 +62,7 @@ export default function BookingForm() {
     const formikRef = useRef();
 
     return (
-        <Box px={6} py={6}>
+        <Box px={6} py={6} maxW="1200px" mx="auto">
             <Formik
                 innerRef={formikRef}
                 enableReinitialize
@@ -90,7 +90,7 @@ export default function BookingForm() {
                                 mb={6}
                                 wrap="wrap"
                                 align="flex-start"
-                                justifyContent="center"
+                                justifyContent="space-between"
                             >
                                 <Box w="200px" color={"gray.600"}>
                                     <Text mb={1} fontWeight="bold">
@@ -240,31 +240,43 @@ export default function BookingForm() {
                     );
                 }}
             </Formik>
+            <Box maxW="1200px" mx="auto" textAlign="left" mt={6}>
+                <Heading as="h2" size="xl" mb={2}>
+                    Travel With{" "}
+                    <Text as="span" color="orange.400" display="inline">
+                        Booking
+                    </Text>
+                </Heading>
+                <Text fontSize="md" color="gray.600">
+                    Plan your next trip with ease and confidence. Discover
+                    top-rated hotels in your dream destinations and enjoy a
+                    seamless booking experience tailored just for you.
+                </Text>
+            </Box>
             {errors.length > 0 && (
-                <Flex
-      minH="50vh"
-      align="center"
-      justify="center"
-      px={4}
-      py={6}
-    >
-      <Box
-        bg="red.50"
-        border="1px solid"
-        borderColor="red.300"
-        borderRadius="md"
-        p={6}
-        maxW="600px"
-        w="100%"
-        textAlign="center"
-      >
-        {errors.map((err, idx) => (
-          <Text key={idx} fontSize="xl" fontWeight="bold" color="red.600">
-            {err}
-          </Text>
-        ))}
-      </Box>
-    </Flex>
+                <Flex minH="50vh" align="center" justify="center" px={4} py={6}>
+                    <Box
+                        bg="red.50"
+                        border="1px solid"
+                        borderColor="red.300"
+                        borderRadius="md"
+                        p={6}
+                        maxW="600px"
+                        w="100%"
+                        textAlign="center"
+                    >
+                        {errors.map((err, idx) => (
+                            <Text
+                                key={idx}
+                                fontSize="xl"
+                                fontWeight="bold"
+                                color="red.600"
+                            >
+                                {err}
+                            </Text>
+                        ))}
+                    </Box>
+                </Flex>
             )}
             {hotels.length > 0 && (
                 <Box mt={10}>
