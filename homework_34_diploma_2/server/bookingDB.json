@@ -1,0 +1,22 @@
+[
+  {
+    "destination": "Boston",
+    "checkIn": "2025-07-09",
+    "checkOut": "2025-07-27",
+    "adults": 1,
+    "children": 0,
+    "hotel": {
+      "id": "eb0ce012-b102-423b-a73d-f4b3da9c0c9b",
+      "name": "Boston Hotel 3",
+      "address": "9373 Boston St",
+      "city": "Boston",
+      "state": "FL",
+      "country_code": "US",
+      "hotel_rating": 4.5,
+      "phone_number": "+1 305 555 9788",
+      "website": "https://www.bostonhotel3.com"
+    },
+    "id": "10vbziqh",
+    "timestamp": "2025-07-13T16:11:26.122Z"
+  }
+]
